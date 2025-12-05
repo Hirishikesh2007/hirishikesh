@@ -1,0 +1,50 @@
+<!Doctype html>
+<head>
+    <style>
+   h1{
+    background-color: antiquewhite;
+    padding:50px;
+    border:20;
+    text-align: center;
+   }
+   nav{
+    background-color:orange;
+    padding:50px;
+    border:20;
+    text-align: center;
+   }
+.part1{
+    background-color:blue;
+    padding:50px;
+    border:20;
+    text-align: center;
+}
+h2{
+    background-color:yellow;
+    padding:50px;
+    border:20;
+    text-align: center;
+
+}
+.part2{
+    background-color:red;
+    padding:50px;
+    border:20;
+    text-align: center;
+}
+a:hover{
+color:red;
+}
+</style>
+</head>
+<body>
+    <h1>About coding</h1>
+    <nav>
+        <a href="file:///C:/Users/naray/OneDrive/Desktop/exp7.html">ABOUT</a> |
+         <a href="file:///C:/Users/naray/OneDrive/Desktop/exp5.html">CONTACT</a> |
+          <a href="file:///C:/Users/naray/OneDrive/Desktop/time%20table2.html">HOME</a>
+        </nav>
+        <br>
+ <div class="part1">Coding is the process of writing instructions for computers to execute, and it plays a crucial role in software development, web applications, and technology in general.</div>
+<h2>python</h2>
+<div class="part2">Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. </div>
